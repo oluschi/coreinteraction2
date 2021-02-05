@@ -81,6 +81,7 @@ h1{
 	border-color: black;
 	text-align: center;
 	-webkit-text-stroke: 1px ;
+	-webkit-text-stroke:#AF99DA  1px ;
 
 }
 
@@ -88,7 +89,7 @@ h2{
 	font-size:30pt;
 	color:#C5BFD3;
 	font-family: sans-serif;
-	-webkit-text-stroke: 1px ;
+	-webkit-text-stroke:#AF99DA 1px ;
 	margin-left:20px;
 }
 
