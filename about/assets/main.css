@@ -79,6 +79,8 @@ h1{
 	font-family: sans-serif;
 	border-color: black;
 	text-align: center;
+	-webkit-text-stroke:#AF99DA  1px ;
+
 
 }
 
